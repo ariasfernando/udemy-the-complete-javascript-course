@@ -10,3 +10,5 @@
  2. Calculate both their BMIs.
  3. Craete a boolean variable containing information about whether Mark has a higher BMI than John.
  4. Print a string to the console containing the variable from step 3. (Something like _"Is Mark's BMI higher than John's? true"_);
+
+ [Solution](challenge-01.js) | [Back](../../README.md)
