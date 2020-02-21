@@ -1,0 +1,2 @@
+var markMass = ''
+var johnMass = ''
