@@ -4,8 +4,8 @@
 
 ## Part 2
 
-* [Coding Challenge 1](/part-02/coding-challenge-1/README.md)
-* Coding Challenge 2
+* [Coding Challenge 1](/part-02/coding-challenge-1/)
+* [Coding Challenge 2](/part-02/coding-challenge-2/)
 * Coding Challenge 3
 * Coding Challenge 4
 * Coding Challenge 5
